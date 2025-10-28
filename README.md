@@ -27,3 +27,5 @@ uv sync
 2. Google Cloud SDKがインストールされ、認証されていることを確認します。
 3. `deploy.sh`スクリプトを実行して、Cloud Runにサービスをデプロイします。
 
+## 参考
+[わずか 10 分でリモート MCP サーバーを構築して Google Cloud Run にデプロイ](https://cloud.google.com/blog/ja/topics/developers-practitioners/build-and-deploy-a-remote-mcp-server-to-google-cloud-run-in-under-10-minutes)
